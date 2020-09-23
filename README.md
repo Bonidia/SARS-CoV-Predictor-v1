@@ -50,7 +50,7 @@ $ cd SARS-CoV-Predictor
 $ pip3 install -r requirements.txt
 ```
 
-## Usange and Examples
+## Examples
 
 
 ```sh
